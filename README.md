@@ -24,5 +24,5 @@ image = "https://www.clker.com/cliparts/C/H/o/A/i/k/pink-shirt-hi.png"
 snapshots = 25
 
 # Function to gather data
-get_image(image, snapshots), image)
+get_image(image, snapshots)
 ```
